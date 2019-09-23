@@ -1,3 +1,9 @@
 body {
     background: silver;
 }
+
+.div1 {
+    width: 300px;
+    height: 200px;
+    border: solid 5px green;
+}
