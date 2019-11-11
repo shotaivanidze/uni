@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+  }
+  
+#sliderItems {
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+}
+  
+  #sliderWrapper {
+    height: 100%;
+    width: 1500px;
+    position: relative;
+    left: 0;
+    transition: left 500ms;
+  }
+  
+  .slide {
+    height: 100%;
+    width: 500px;
+    float: left;
+  }
+
+#navContainer {
+    position: relative;
+    bottom: 20px;
+    text-align:center;
+    width:500px;
+}
+
+#navWrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    position: relative;
+    text-align:center;
+}
