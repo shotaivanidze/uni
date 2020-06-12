@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Midterm\bin\Debug\netcoreapp3.1\Midterm_Resit_CSharp.exe
+C:\Users\User\source\repos\Midterm\bin\Debug\netcoreapp3.1\Midterm_Resit_CSharp.deps.json
+C:\Users\User\source\repos\Midterm\bin\Debug\netcoreapp3.1\Midterm_Resit_CSharp.runtimeconfig.json
+C:\Users\User\source\repos\Midterm\bin\Debug\netcoreapp3.1\Midterm_Resit_CSharp.runtimeconfig.dev.json
+C:\Users\User\source\repos\Midterm\bin\Debug\netcoreapp3.1\Midterm_Resit_CSharp.dll
+C:\Users\User\source\repos\Midterm\bin\Debug\netcoreapp3.1\Midterm_Resit_CSharp.pdb
+C:\Users\User\source\repos\Midterm\obj\Debug\netcoreapp3.1\Midterm_Resit_CSharp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Midterm\obj\Debug\netcoreapp3.1\Midterm_Resit_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Midterm\obj\Debug\netcoreapp3.1\Midterm_Resit_CSharp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Midterm\obj\Debug\netcoreapp3.1\Midterm_Resit_CSharp.AssemblyInfo.cs
+C:\Users\User\source\repos\Midterm\obj\Debug\netcoreapp3.1\Midterm_Resit_CSharp.dll
+C:\Users\User\source\repos\Midterm\obj\Debug\netcoreapp3.1\Midterm_Resit_CSharp.pdb
+C:\Users\User\source\repos\Midterm\obj\Debug\netcoreapp3.1\Midterm_Resit_CSharp.genruntimeconfig.cache
